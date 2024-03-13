@@ -19,6 +19,23 @@ a {
   text-decoration: none;
 }
 
+.section-title {
+    display: flex;
+    flex-direction: column;
+}
+
+
+video {
+    margin-left: 220px;
+
+}
+
+
+video {
+    max-width: 100%; /* Ensure video doesn't exceed container width */
+}
+
+
 a:hover {
   color: #5faee3;
   text-decoration: none;
